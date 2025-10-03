@@ -58,6 +58,4 @@ public class UserAuthController {
         return "This is an ADMIN endpoint. SUPER_ADMIN role required.";
     }
 
-
-
 }
